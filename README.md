@@ -7,6 +7,7 @@ Programming assignments at Leiden University (NL) in 'Computer Science &amp; Eco
     - Quatrominos by Luc Schouten & Dylan Macquine
     - Schedules by Luc Schouten & Dylan Macquine
     - Stockmarket by Luc Schouten & Dylan Macquine
+    
 **- Artificial Intelligence**:
     - AI Tetris by Luc Schouten & Dylan Macquine
         
