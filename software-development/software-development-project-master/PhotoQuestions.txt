@@ -1,0 +1,677 @@
+#Sport
+&Easy
+Wie is dit?
+Rico Verhoeven
+Conor McGregor
+Peter Aerts
+Badr Hari*
+Badr.ppm
+^
+Van welke club is dit het logo?
+Juventus
+Sampdoria
+AS Roma*
+Inter Milan
+Roma.ppm
+^
+Welk evenement vindt hier plaats?
+Paralympische Spelen*
+Olympische Spelen
+WK hardlopen
+EK hardlopen
+Paralymp.ppm
+^
+Welk sport wordt hier beoefend?
+Boksen*
+Judo
+MMA
+Kung Fu
+Boksen.ppm
+^
+Wie is dit?
+Churandy Martina
+Carl Lewis
+Cristiano Ronaldo
+Usain Bolt*
+Usain.ppm
+^
+Bij welke sport gebruik je deze bal?
+Rugby*
+Voetbal
+Tennis
+Hockey
+Rugby.ppm
+^
+&Medium
+Hoe heet dit stadion?
+Camp Nou*
+Santiago Bernabéu
+Estadio Calderon
+De Kuip
+CampNou.ppm
+^
+Van wat is dit de route?
+De Elfstedentocht*
+De Tour de France
+TT Assen
+Wielrentocht de “Fryslânder”
+Schatas.ppm
+^
+Van welke sport is dit het logo?
+Formule 1*
+MotoGP
+Fitness
+Frisbee
+Formule1.ppm
+^
+Wie is dit?
+Epke Zonderland*
+Jeffrey Wammes
+Juri van Gelder
+Bart Deurloo
+Zonderland.ppm
+^
+Welke sport wordt hier beoefend?
+Curling*
+Shorttrack
+Ijshockey
+Schaatsen
+Curling.ppm
+^
+Wat is de Nederlandse benaming voor deze oefening?
+Bankdrukken*
+Pull up
+Squat
+Chest Press
+Bankdrukken.ppm
+^
+&Hard
+Wie is dit?
+Novak Djokovic*
+Rafael Nadal
+Andy Murray
+Roger Federer
+Djokovic.ppm
+^
+Welke sport wordt hier beoefend?
+Cricket*
+Hockey
+Honkbal
+Net ball
+Cricket.ppm
+^
+Uit welk land is deze sport afkomstig?
+China*
+Japan
+Zuid-Korea
+Amerika
+China.ppm
+^
+Welke sport wordt hier beoefend?
+Waterpolo*
+Snorkelen
+Duiken 
+Zwemmen
+Waterpolo.ppm
+^
+Hoeveel spelers zitten er in één team in deze sport?
+8*
+9
+6
+10
+Korfbal.ppm
+^
+Hoeveel minuten is een totale wedstrijd in deze competitie?
+48*
+50
+52
+46
+Nba.ppm
+^
+&Extreme
+Wie is dit?
+Michael Jordan*
+Scottie Pippen
+LeBron James
+Kobe Bryant
+Jordan.ppm
+^
+Wat is de zwaarste straf bij deze sport?
+Strafbal*
+Penalty
+Tegendoelpunt
+Rode kaart
+Strafbal.ppm
+^
+Om welke truc staat deze voetballer bekend?
+Rainbow Flick*
+Akka
+Nep-schot
+Panna
+Neymar.ppm
+^
+Wanneer was de eerste editie van dit evenement?
+1896*
+1876
+1900
+1902
+spelen.ppm
+^
+Hoe noem je dit fenomeen?
+Peloton*
+Groep
+Bidon
+Team
+peloton.ppm
+^
+#Wetenschap
+&Easy
+Welke planeet is dit?
+Mars*
+Venus
+Mercurius
+Jupiter
+mars.ppm
+^
+Hoe noemen we dit getal?
+Pi*
+E
+Priemgetal
+N
+pi.ppm
+^
+Van welk gas is dit de structuurformule?
+Koolstofdioxide*
+Zuurstof
+Water
+Koolstofmonoxide
+co2.ppm
+^
+Wie is deze wetenschapper?
+Albert Einstein*
+Nicolaas Copernicus
+Aristoteles
+Jimmy Neutron
+einstein.ppm
+^
+Hoe noem je deze stelling?
+De stelling van Pythagoras*
+De stelling van Aristoteles
+De stelling van Caesar
+De stelling van Socrates
+pythagoras.ppm
+^
+Wie was de bekende (mede)oprichter van Apple?
+Steve Jobs*
+Tim Cook
+Jeff Bezos
+Elon Musk
+jobs.ppm
+^
+&Medium
+Met welke stof wilden de Duitsers vroeger waterstof vervangen voor het in de lucht houden van hun zeppelins?
+Helium*
+Natrium
+Zuurstof
+Koolstofdioxide
+helium.ppm
+^
+Hoe noemen we dit?
+Periodiek Systeem*
+Element tabel
+Elementen groep
+Scheikunde Systeem
+periodiek.ppm
+^
+Met welk onmenselijk orgaan zijn vissen in staat zuurstof uit water op te nemen?
+Kieuwen*
+Klauwen
+Staart
+Adembuizen
+kieuwen.ppm
+^
+Van welke grootheid is dit het eenheidssymbool?
+Weerstand*
+Stroom
+Voltage
+Wattage
+weerstand.ppm
+^
+Wie is deze wetenschapper?
+Isaac Newton*
+Nicola Tesla
+Albert Einstein
+Leonardo DaVinci
+newton.ppm
+^
+Naar welke wetenschapper is deze auto vernoemd?
+Nikola Tesla*
+Pythagoras
+Elon Musk
+Alexander Flemming
+tesla.ppm
+^
+&Hard
+Hoe wordt dit genoemd in de wiskunde?
+Parallellogram*
+Diagram
+Z gram
+Diameter
+paralelliogram.ppm
+^
+Van welke stof is hier de structuurformule te zien?
+Ozon*
+Water
+Zuurstof
+Zwavelzuur
+ozon.ppm
+^
+Wie was de uitvinder van deze lamp?
+Thomas Edison*
+Alexander Bell
+Erik Elektro
+Nicola Tesla
+edison.ppm
+^
+In welk jaar werd dit bedrijf opgericht?
+1975*
+1964
+1978
+1968
+1976.ppm
+^
+Hoe heet het verschijnsel als er twee keer in één maand een volle maan optreedt?
+Blauwe maan*
+Gele maan
+Zwarte maan
+Witte Maan
+blauwemaan.ppm
+^
+Welk fenomeen naar de natuurkundige Christian Doppler?
+Het Dopplereffect*
+Het Meissner-effect
+Het Leidenfrost-effect
+Het Joule-effect
+doppler.ppm
+^
+&Extreme
+Wie is deze wetenschapper?
+James Watt*
+Nicola Tesla
+Sigmund Freud
+Ruben Nicolai
+wat.ppm
+^
+Welke giftige stof zit er in een appelpitje?
+Cyanide*
+Ricine
+Strychine
+Toxine
+cyanide.ppm
+^
+In welk jaar vond dit moment plaats?
+1969*
+1968
+1970
+1971
+maandlanding.ppm
+^
+Welk metaal zorg voor de groene kleur van vuurwerk?
+Koper*
+Goud
+Zilver
+Wolfraam
+koper.ppm
+^
+Van welke zuur is dit de structuurformule?
+Azijnzuur*
+Waterstofperoxide
+Appelzuur
+Sulfide
+azijnzuur.ppm
+^
+Welke (hulp)wetenschap houdt zich bezig met het ontcijferen van oude handschriften?
+Paleografie*
+Cryptografie
+Hyrografie
+Anagrafie
+paleografie.ppm
+^
+#Informatica
+&Easy
+Welke taal is vernoemd naar dit dier?
+Python*
+Cobra
+Nederlands
+C++
+python.ppm
+^
+Van welk office programma is dit icoon?
+PowerPoint*
+Excel
+Word
+Outlook
+powerpoint.ppm
+^
+Van welke techniek is dit het loge?
+Bluetooth*
+Wifi
+CarPlay
+Airplay
+siri.ppm
+bluetooth.ppm
+^
+Wat is een andere naam voor malicious software?
+Malware*
+Badware
+Shitware
+Stealware
+malware.ppm
+^
+Van welk besturingssysteem is dit het logo?
+Linux*
+Apple
+Windows
+Android
+linux.ppm
+^
+&Medium
+Wat is de Engelse term voor het versleutelen van gegevens?
+Encryption*
+Locking up
+Locryption
+Safecryption
+encryption.ppm
+^
+Van welk office programma is dit icoon?
+OneNote*
+Outlook
+Steam
+Elephant
+onenote.ppm
+^
+Wat voor getallen zijn dit?
+Binaire getallen*
+Tertiare getallen
+Singlaire getallen
+Complexe getallen
+binair.ppm
+^
+Van welk antivirusmerk is dit het logo?
+Norton*
+AFAS
+AVG
+McAfee
+norton.ppm
+^
+Van welke programmeertaal is dit het logo?
+Java*
+Adobe
+Python
+C++
+java.ppm
+^
+Wat gebeurt hier?
+Phishing*
+Retrieving
+Stealing
+Catfishing
+phising.ppm
+^
+&Hard
+Wat is de afkorting van een gebruiksomgeving zoals op de afbeelding?
+GUI*
+HUI
+BUI
+TUI
+GUI.ppm
+^
+Wat is de Engelse term voor het fenomeen dat je uit de afbeelding kan herleiden?
+Artificial Intelligence*
+Brain Transformation
+Simplifying
+Cyborging
+ai.ppm
+^
+Welk iconisch gebied is hier te zien?
+Silicon Valley*
+Zuid-As
+TU-Delft
+Bilicon Valley
+silicon.ppm
+^
+Wat voor collectie is dit?
+Dictionary*
+Set
+List
+Tuple
+dictionary.ppm
+^
+Voor welke woorden staat de afkorting van de bestandsindeling van elektronische documenten die hier te zien is?
+Portable Document Format*
+Portable Docking Format
+Portable Deranging Format
+Portable Diversion Format
+pdf.ppm
+^
+Welk computermerk bracht in 1981 de eerste PC op de markt?
+IBM*
+Intel
+Apple
+Microsoft
+ibm.ppm
+^
+&Extreme
+Voor wat staat de afkorting HP?
+Harry PotterHewlett-Packard*
+Haagse post
+Hewet-Pakkart
+hp.ppm
+^
+In welk jaar is dit softwarepakket gelanceerd?
+1989*
+1988
+1990
+1991
+office.ppm
+^
+Welke veel gebruikte programmeer term is vernoemd naar deze man?
+Algoritme*
+Error
+Recursion
+Looping
+algoritme.ppm
+^
+Van welk antivirusmerk is dit het logo?
+Kaspersky*
+AVG
+Norton
+McAfee
+kaspersky.ppm
+^
+Wat is de term voor het toevoegen van elementen aan een live beeld van de werkelijkheid?
+Augmented Reality*
+DeepFake
+Editing
+CGI
+augmented.ppm
+^
+Welke methode is hier te zien?
+Backtracking*
+Branch and Bound
+Greedy
+Brute force
+backtracking.ppm
+^
+#Geografie
+&Easy
+Wat geeft de roodgele lijn aan?
+De evenaar*
+De breuklijn
+De tektonische platen
+De omtrek
+evenaar.ppm
+^
+In welke stad kan je dit beeld vinden?
+New York*
+Boston
+Los Angeles
+Washington
+york.ppm
+^
+In welke stad ligt het Colosseum?
+Rome*
+Florence
+Milaan
+Napels
+rome.ppm
+^
+Hoe heet dit gebouw, gevestigd in Washington D.C.?
+Het Witte Huis*
+Het grote Huis
+Het marmeren Huis
+Trump Palace
+wittehuis.ppm
+^
+Hoe heet dit museum gevestigd in Amsterdam?
+Het Rijksmuseum*
+Het Nationaal museum
+Het Kroller muller
+Het Mauritshuis
+rijksmuseum.ppm
+^ 
+In welke stad staat De Euromast?
+Rotterdam*
+Amsterdam
+Groningen
+Utrecht
+euromast.ppm
+^
+Welke stad is hier te zien?
+Mexico-stad*
+Bangkok
+Montevideo
+Rio de Janeiro
+rio.ppm
+^
+In welke stad is Nederland in het klein te vinden?
+Den Haag*
+Amsterdam
+Rotterdam
+Leiden
+denhaag.ppm
+^
+Welk stadsdeel van Den Haag is hier te zien?
+Scheveningen*
+Zeeheldenkwartier
+Rijswijk
+Voorburg
+scheveningen.ppm
+^
+Hoe heet deze brug die staat in London?
+Tower Bridge*
+Two Tower Bridge
+Royal Bridge
+Milennium Bridge
+towerbridge.ppm
+^
+In welke stad kunnen we deze toren vinden?
+Pisa*
+Rome
+Milaan
+Napels
+pisa.ppm
+^
+Hoe heet dit gebergte?
+Rocky Mountains*
+Andes 
+Himalaya
+Fuji
+rocky.ppm
+^
+&Hard
+In welke land kunnen we Cinque Terre vinden?
+Italië*
+Frankrijk
+Canada
+Portugal
+italiue.ppm
+^
+Op de top van welke heuvel ligt het Drielandenpunt?
+Vaalserberg*
+Grebberberg
+Tafelberg
+Austerlitz
+drielanden.ppm
+^ 
+In welke stad ligt deze brug?
+Rotterdam*
+Amsterdam
+Leiden
+Utrecht
+erasmus.ppm
+^
+In welke staat in Amerika ligt de Grand Canyon?
+Arizona*
+California
+Michigan
+Georgia
+grand.ppm
+^
+In welk land staat dit wereldwonder?
+Mexico*
+Uruguay
+Brazilië
+Colombia
+mexico.ppm
+^
+In welke stad kan je dit gebouw vinden?
+Moskou*
+Minsk
+Sint Petersburg
+Kiev
+moskou.ppm
+^
+&Extreem:
+In welk dorp vind je dit molencomplex?
+Kinderdijk*
+Giethoorn
+Laren
+Lisse
+kinderdijk.ppm
+^
+Welke stad is hier te zien?
+Istanbul*
+Cairo
+Mexico
+Miami
+istanbul.ppm
+^
+Welke stad is hier te zien?
+Chefchaouen*
+Rabat
+Casablanca
+Marrakesh
+marokko.ppm
+^
+In welk land ligt deze stad?
+Zuid-Afrika*
+Kenia
+Brazilië
+Chili
+zuidafrika.ppm
+^
+Wat is de hoofdstad van dit land?
+Paramaribo*
+Bogota
+Santiago
+Amsterdam
+paramaribo.ppm
+^
+Wat is de naam van dit mausoleum?
+Taj Mahal*
+Gizeh
+Kiej Karin
+Ghenghis Kwe
+tajmahal.ppm
+^

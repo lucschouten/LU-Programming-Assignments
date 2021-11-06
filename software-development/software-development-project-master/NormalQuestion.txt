@@ -1,0 +1,590 @@
+#Wetenschap
+&Easy
+^
+Hoe wordt de batterij genoemd in een horloge?
+Knoopcel*
+AA batterij
+AAA batterij
+C batterij
+^
+Welk soort verbinding is vernoemd naar Harald Blauwtand?
+Wi-FI
+Bluetooth*
+3G
+ADSL
+^
+Hoe noem je de kracht die alles naar beneden trekt?
+Magnetische kracht
+Duwkracht
+Zwaartekracht*
+Wrijvingskracht
+^
+Hoe heet de Amerikaanse ruimtevaartorganisatie?
+ESA
+NASA*
+JAXA
+Roskosmos
+^
+Hoeveel spanning komt er uit het stopcontact?
+200-210 volt
+210-220 volt
+220-230 volt*
+230-240 volt
+^
+Bij welke temperatuur kookt water?
+100 graden Celcius*
+110 graden Celcius
+120 graden Celcius
+130 graden Celcius
+^
+&Medium
+Hoeveel potloodbatterijen maken samen 4,5 volt?
+2
+3*
+4
+5
+^
+Welke kleur(en) bloedlichaampjes kennen we?
+Rood
+Rood en wit*
+Wit
+Wit en zwart
+^
+Vergeleken met de aarde is op de maan de zwaartekracht?
+Hoger
+Lager*
+Hetzelfde
+Niet bekend
+^
+Wat is de hardste steen op aarde?
+Basalt
+Kalksteen
+Diamant*
+Graniet
+^
+In welk jaar was de eerste maanlanding?
+1968
+1969*
+1974
+1978
+^
+Op welke brandstof reed de eerste trein?
+Stoom*
+Aardolie
+Aardgas
+Steenkool
+&Hard
+^
+Welk materiaal is magnesium?
+Keramiek
+Polymeer
+Biomateriaal
+Metaal*
+^
+Hoeveel kilometer is de omtrek van de aarde?
+10.000 km
+20.000 km
+40.000 km*
+50.000 km
+^
+Wat is kleiner dan een molecuul?
+Micro-organisme
+E.coli
+Virus
+Atoom*
+^
+Wat is de snelheid van geluid?
+340m per seconde*
+350m per seconde 
+360m per seconde 
+370m per seconde
+^
+Welke smaak proeft men volledig achter de tong?
+Bitter*
+Zoet
+Zuur
+Zout
+^
+Van welk chemisch element is het symbool Pb?
+Lood*
+Koolstof
+Magnesium
+Fosfor
+^
+&Extreme
+Wat is de dichtste planeet bij de zon?
+Venus
+Mars
+Jupiter
+Mercurius*
+^
+Hoeveel Y-chromosomen komen voor in het vrouwelijk gen?
+1
+23
+0*
+46
+^
+Hoeveel poten heeft een duizendpoot?
+1000
+16
+162 
+42*
+^
+Wat is een botanicus?
+Plantkundige*
+Zoöloog
+Weerkundige
+Geoloog 
+^
+Welke lijn deelt een hoek precies doormidden?
+Bissectrice*
+Diameter
+Vector
+Symmetrische lijn 
+^
+Wie is de uitvinder van de lamp?
+Isaac Newton
+Thomas Edison*
+Albert Einstein
+Leonardo da Vinci
+^
+#Informatica
+&Easy
+Van welke fabrikant zijn Word, PowerPoint en Excel?
+Apple
+Microsoft*
+Samsung
+Amazon
+^
+Geef een korte naam voor een website adres?
+URL*
+HTML
+WWW
+HTTP
+Als + en * rekenkundige operatoren zijn (optelling en vermenigvuldiging), wat is dan het resultaat van de expressie 2 + 4 * 5 + 1?
+36
+31
+26
+23*
+^
+AND, OR en NOT zijn logische operatoren. Welk datatype moeten hun operands hebben?
+Integer
+Boolean*
+Decimal
+Character
+^
+Welke term beschrijft het mechanisme van een functie die zichzelf oproept?
+encapsulation
+inheritance
+recursion*
+polymorphism
+^
+Door welk bedrijf is de Playstation ontwikkeld?
+Microsoft
+Samsung
+Sony*
+Apple
+^
+&Medium
+Voor wat staat USB?
+Universal Server Business
+User Server Bus
+User Single Bus
+Universal Serial Bus*
+^
+Hoe heet men bij de programmatie de reeks logisch op elkaar volgende stappen, die leidt tot het gewenste resultaat?
+Compiler
+Programma
+Datastructuur
+Algoritme*
+^
+Welke is een typische taal voor het programmeren binnen een Web pagina?
+Javascript*
+HTML
+Cobol
+XML
+^
+In vele programmeertalen worden ‘otherwise’ and ‘else’ gebruikt als onderdeel van ...
+een lus
+een teller
+een selectie*
+een lijststructuur
+^
+Met welk statement geeft men in de definitie van een functie aan wat de resulterende waarde zal zijn als deze functie opgeroepen wordt? (in de meeste programmeertalen)
+Result = x 
+reply x
+send x
+return x*
+^ 
+&Hard
+Waarvoor staat de afkorting DMA bij computers?
+Direct Memory Acces*
+Direct Memory Available 
+Designed Memory Acces
+Designed Memory Available
+^
+Welke site werd in 1995 opgericht door Pierre Omidyar?
+Amazon
+Ebay*
+Alibaba
+Baidu
+^
+Wat is de meest gebruikte programmeertaal anno 2020?
+Python*
+C
+Java
+Matlab
+^
+Wat is de oudste programmeertaal?
+Basic
+C
+Pascal
+Fortan*
+^
+Tot welk aspect van de programma-ontwikkeling behoren termen zoals ‘tracing’, ‘stepping’ en ‘breakpoint’ ?
+Debugging*
+Compilation
+Version control
+Project Planning
+^
+Welk is een typische soort variabele voor het bijhouden van een geordende reeks waarden in het geheugen, zodat naar een waarde kan verwezen worden met bijv. A[3], A[n+1] etc. ?
+File
+Array*
+String
+Container
+^
+&Extreme
+Waar staat de afkorting IRC voor?
+Internet Relay Chat*
+Internet Research Chat
+Interface Relay Chat
+Interface Research Chat
+^
+Tot welke generatie in programmeertalen behoort Python?
+1GL
+2GL
+3GL*
+4GL
+^
+Welke van de volgende hardware componenten gaat het vaakst defect?
+Het moederboord
+De processor
+Het ramgeheugen
+De harde schijf*
+^
+Het sterkste punt van een SSD is…
+De lage toegangstijd*
+De prijs
+De lees- en schrijfsnelheid
+De opslagruimte
+^
+Uit hoeveel MB bestaat 16 GB RAM-geheugen?
+16000
+16384*
+1600000
+1683400
+^
+In welk land ligt de oorsprong van het algoritme?
+Het Perzische rijk*
+Egypte
+Groot-Brittannië 
+China
+^
+#Geografie
+&Easy
+Wat is de hoofdstad van Zuid-Holland?
+Den Haag*
+Rotterdam
+Zoetermeer
+Leiden
+^
+Tot welk land behoren de Canarische Eilanden?
+Portugal
+Marokko
+Italië
+Spanje*
+^
+In welke stad staat het koninklijk theater Carré?
+Amsterdam*
+Rotterdam
+Den Haag
+Utrecht
+^
+Uit hoeveel landen bestaat de Benelux?
+1
+2
+3*
+4
+^
+Wat is het grootste continent ter wereld??
+Noord-Amerika
+Afrika
+Europa
+Azië*
+^
+Hoeveel provincies heeft Nederland?
+10
+11
+12*
+13
+^
+&Medium
+Wat is de langste rivier van Afrika?
+De Niger
+De Nijl*
+De Zambezi
+De Limpopo
+^
+Wat is de helderste stad op aarde vanuit de ruimte?
+Las Vegas*
+Istanbul
+Parijs
+Vancouver
+^
+Welke stad wordt bedoeld met “de eeuwige stad”?
+Peking
+Rome*
+Kaapstad
+Rio de Janeiro 
+^
+Welk land heeft geen hoofdstad?
+Antarctica*
+Qatar
+Noord-Korea 
+Zuid-Korea 
+^
+In welke zee ligt Aruba?
+Noordzee
+Atlantische Oceaan 
+Grote Oceaan 
+Caribische Zee*
+^
+Bij welke provincie hoort het Waddeneiland Ameland?
+Friesland*
+Groningen 
+Drenthe
+Noord-Holland
+^
+&Hard
+Aan hoeveel meren grenst Almere?
+1
+2
+3*
+4
+^
+Welke hoofdstad had de meeste inwoners van de Europese Unie in 2019?
+Parijs
+London*
+Madrid
+Rome
+^
+Wat is de kleinste onafhankelijke staat ter wereld?
+Monaco
+Qatar
+Luxemburg 
+Vaticaanstad*
+^
+Op welke eilandengroep in de stille oceaan vind je de grootste vulkaan?
+Cookeilanden
+Hawaï*
+Palawan
+San Blas Eilanden
+^
+Aan welke rivier ligt de Franse stad Bordeaux?
+Garonne*
+Loire
+Seine
+Tarn
+^
+In welke stad staat de oudste universiteit van Nederland?
+Delft
+Amsterdam
+Leiden*
+Rotterdam
+^
+&Extreme
+Welk land wordt ook wel land van duizend meren genoemd?
+Finland*
+Rusland
+Letland
+Zwitserland 
+^
+In welke stad brandde het Olympische vuur voor het eerst?
+Peking
+Amsterdam*
+Kaapstad
+Parijs
+^
+Wat is de hoofdstad van Burundi?
+Ngozi
+Rumonge
+Kayanza
+Bujumbura*
+^
+Hoe laag is het laagste punt van Europa?
+18 meter
+22 meter
+28 meter*
+36 meter
+^
+Hoe noem je een inwoner van Montenegro?
+Een Montenegrijn*
+Een Monteneeg
+Een Montenegriaan
+Een Montenessiër
+^
+Welke rivier wordt ook wel China’s verdriet genoemd?
+De gele rivier*
+Mekong
+Xi Jiang
+Jangtsekiang
+^
+#Sport
+&Easy
+Welke voetbalclub heeft het grootste voetbalstadion van Nederland?
+Feyenoord
+Ajax*
+PSV
+FC Utrecht
+^
+Welk Engels woord gebruikt men voor opslag bij tennis en volleybal?
+Floater
+Smash
+Service*
+Ace
+^
+Bij welk racketspel sla je de bal tegen de muur?
+Badminton
+Tennis
+Squash*
+Hockey
+^
+Wat wordt gezien als de hoogste autosportklasse?
+GP2 Series
+Formule 1*
+A1 Grand Prix
+W Series
+^
+Welke sport heeft de onderdelen speerwerken, horden en verspringen?
+Gymnastiek	
+Atletiek*
+Turnen
+Powerliften
+^
+Wat is de start en aankomstplaats van de Elfstedentocht?
+Leeuwarden*
+Groningen	
+Sneek
+Heerenveen
+^
+&Medium
+Hoe wordt een dumbbell genoemd met een lang halter voor het gebruik met 2 handen?
+Pull-up bar 
+Olympic bar
+Barbell*
+Chinningbar
+^
+Hoe wordt bij tennis een winnende opslag genoemd waarbij de tegenstander de bal niet raakt?”
+Break
+Game point
+Ace*
+Deuce
+^
+Welke sport wordt ook wel de “moeder der sporten” genoemd?
+Olympische spelen
+Atletiek*
+Zwemmen
+Boksen
+^
+Hoe worden de kegels bij het bowlen genoemd?
+Dots
+Spare
+Pocket
+Pins*
+^
+Welke kleur begint altijd bij het schaken?
+Zwart
+Bruin
+Eigen keuze
+Wit*
+^
+Welke sport staat centraal tijdens het zwarte crossfestival?
+Wielrennen
+Paardrijden
+Motorsport*
+Rally
+^
+&Hard
+Welke sport kent de termen bunkerslag, putten en chip?
+Poker
+Golf*
+Speerwerpen
+Atletiek
+^
+Uit hoeveel veldspelers bestaat een waterpoloteam?
+4
+5
+6*
+7
+^
+Hoe wordt de afslagplaats bij golf genoemd?
+Tee*
+Birdie
+Eagle
+Pitch
+^
+Welk turnonderdeel is geen Olympische sport voor vrouwen?
+Handbal
+Tennis
+Paardrijden
+Ringen*
+^
+Wat is het oudste tennistoernooi ter wereld?
+Australian Open
+Roland Garros
+US Open
+Wimbledon*
+^
+Welke trui mag de wereldkampioen wielrennen dragen?
+Geen trui 
+De ’Groengele’ trui
+De Wielrentrui 
+De regenboogtrui*
+^
+&Extreme
+Welke sport beoefent Ireen Wüst?
+Schaatsen*
+Wielrennen
+Tennis
+Paardrijden
+^
+Welke sport kent de termen freeze, windmill en headspin?
+Skaten
+Hockey
+Waterpolo
+Breakdance*
+^
+Op de laatste zaterdag van welke maand worden de TT Assen gehouden?
+Juli
+April
+Mei
+Juni*
+^
+Hoe wordt het turnen op een bewegend paard genoemd?
+Acrogym
+Tumbling
+Rhönradturnen 
+Voltige*
+^
+Op welke ondergrond wordt getennist op Wimbledon?
+Kunstgras
+Gras*
+Gravel
+Hardcourt
+^
+Bij welke sport horen de termen pancake, side-out en floater?
+Volleybal*
+Rugby
+Schermen 
+Tafeltennis
+^

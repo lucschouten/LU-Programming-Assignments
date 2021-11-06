@@ -1,0 +1,680 @@
+#Sport
+&Easy
+Noem drie bekende Nederlandse voetbalclubs
+PSV
+Feyenoord
+Ajax
+ADO Den Haag
+FC Twente
+Vitesse
+Sc Heerenveen
+FC Utrecht
+FC Groningen
+Roda JC
+NAC
+AZ
+Willem II
+PEC Zwolle
+Graafschap
+N.E.C.
+Heracles
+Sparta
+FC Emmen
+FC Den Bosch
+VVV-Venlo
+RKC Waalwijk
+3
+^
+Uit welke drie onderdelen bestaat een triatlon?
+Zwemmen
+Fietsen
+Hardlopen
+3
+^
+Noem 2 denksporten
+Schaken
+Dammen
+Go
+Bridge
+Scrabble
+Stratego
+2
+^
+Welke twee sporten doet men het meest op wintersport
+Skiën
+Snowboarden
+2
+^
+Welke twee tennissers worden gezien als eeuwige rivalen?
+Roger Federer
+Rafael Nadal
+2
+^
+Hoeveel verschillende vakjes zijn er op een dartbord?
+82
+1
+^
+&Medium
+Noem drie sporten die erg populair zijn in Amerika
+Basketbal
+Baseball
+Honkbal
+American Football
+Ijshockey
+3
+^
+In welke twee onderdelen behaalde Nederland goud op de Olympische Winterspelen 2018
+Schaatsen
+Shorttrack
+2
+^
+Wat zijn de clubkleuren van Excelsior?
+Rood
+Zwart
+2
+^
+In welke sport nemen ze korte en lange corners?
+Hockey
+1
+^
+Wat zijn de drie grootste voetbalstadions van Nederland
+Kuip
+Johan Cruijff Arena
+Philips Stadion
+3
+^
+Wat zijn de drie meeste beoefende teamsporten in Nederland
+Voetbal
+Hockey
+Volleybal
+3
+^
+&Hard
+Wie zijn de drie beste Nederlandse voetballers aller tijden?
+Johan Cruijff
+Willem van Hanegem
+Marco van Basten
+3
+^
+Welke kleuren hebben de vijf olympische ringen?
+Geel
+Rood
+Zwart 
+Groen 
+Blauw
+5
+^
+Wie zijn de drie best betaalde sporters ter wereld in 2020
+Cristiano Ronaldo
+Lionel Messi
+Roger Federer
+3
+^
+In welke steden vonden de laatste twee Olympische Zomerspelen plaats?
+Rio de Janeiro
+London
+2
+^
+Wat was de geboortenaam van Mohammed Ali?
+Cassius Clay
+1
+^
+Wat zijn de drie bekendste sporten ter wereld
+Voetbal
+Hockey
+Cricket
+3
+^
+&Extreme
+Noem vier sporten die vallen onder motorsport
+Formule 1
+Karting
+Autosport
+Motorcross
+Motorsport
+Speedboot racen
+Trail 
+4
+^
+In welke steden vonden de laatste twee Olympische Winterspelen plaats?
+Sotsji
+Pyeongchang 
+2
+^
+Bij welke sport kan men de titel Mr.Olympia behalen?
+Bodybuilding
+1
+^
+Welke drie clubs hebben de meeste NBA titels
+Golden State Warriors
+Boston Celtics
+Los Angeles Lakers
+3
+^
+Geef de namen van de vier grootste tennistoernooien
+US Open
+Australian Open
+Wimbledon
+Rolland Garros
+4
+^
+In welke vier categorieën kan je zwemslagen verdelen?
+Borstslagen
+Rugslagen
+Zijslagen
+Kantelslagen
+4
+^
+#Wetenschap 
+&Easy
+Welke elementen zitten er in water?
+Waterstof
+Zuurstof
+2
+^
+Noem een bekende wetenschapper met voor en achternaam
+Albert Einstein
+Nikola Tesla
+Iscaac Newton
+Charles Darwin
+Leonardo da Vinci
+Marie Curie
+Galileo Galilei
+Nicolaas Copernicus
+Christiaan Huygens
+Antoni van Leeuwenhoek
+Desiderius Erasmus
+Stephen Hawking
+Alan Turing
+1
+^
+Noem Albert Einstein zijn bekendste theorie
+Relativiteitstheorie
+1
+^
+Noem de eerste vier priemgetallen
+2
+3
+5
+7
+4
+^
+Noem de drie delen waar een atoom uit bestaat
+Protonen
+Neutronen
+Elektronen
+3
+^
+Noem 4 planeten in het zonnestelsel
+Mercurius
+Venus
+Aarde
+Mars
+Jupiter
+Saturnus
+Uranus
+Neptunus
+4
+^
+&Medium
+Noem de drie vitale organen van een mens
+Hart
+Hersenen
+Longen
+3
+^
+Hoe noem je een kruising tussen een ezelin en een paardenhengst?
+Muilezel
+1
+^
+Noem drie vormen van duurzame energie
+Zonne-energie
+Windenergie
+Waterkracht
+Geothermische energie
+Getijdenenergie
+Golfslagenergie
+Bio-energie
+Kernfusie
+Geothermische energie
+Aardwarmte
+Blauwe energie
+3
+^
+Naar welke Griekse god is de eerste maanmissie benoemd?
+Apollo
+1
+^
+Een legering is een mengsel van…
+Metalen
+1
+^
+Noem 2 soorten natuurwetenschappen
+Natuurkunde
+Scheikunde
+Aardwetenschappen
+Astronomie
+Biologie
+2
+^
+&Hard
+Noem de drie grootste organen van een mens
+Huid
+Lever
+Hersenen
+3
+^
+Welke twee klassen van dieren zijn er?
+Gewervelden
+Ongewervelden
+2
+^
+Hoe noem je een kruising tussen een paardenmerrie en een ezelhengst?
+Muildier
+1
+^
+Noem de vier basiswerkingen van de wiskunde 
+Product
+Som
+Verschil
+Quotiënt
+4
+^
+Welk getal volgt er in de reeks 2-5-3-6-4?
+7
+1
+^
+Noem 3 vormen van wetenschap 
+Geesteswetenschappen
+Sociale wetenschappen
+Natuurwetenschappen
+Alfawetenschappen
+Exacte wetenschappen
+Gammawetenschappen
+Formele wetenschappen
+3
+^
+&Extreme
+Welke drie elementen zijn de beste elektrische geleiders?
+Zilver
+Goud
+Koper
+3
+^
+Noem de vijf diergroepen die vallen onder de gewervelden
+Vissen
+Zoogdieren
+Vogels
+Reptielen
+Amfibieën
+5
+^
+Welk getal volgt er in de reeks 4-19-64-199?
+607
+1
+^
+Uit welke astronauten bestond Apollo 11?
+Neil Armstrong
+Buzz Aldrin
+Michael Collins
+3
+^
+Noem alle elementen die in ethanol zitten
+Waterstof
+Koolstof
+Zuurstof
+3
+^
+Noem de drie rijken van organismen
+Schimmels
+Planten
+Dieren
+3
+^
+#Geografie 
+&Easy
+Noem 5 provincies uit Nederland
+Friesland
+Groningen
+Gelderland
+Flevoland 
+Zuid-Holland
+Noord-Holland
+Zeeland
+Limburg
+Noord-Brabant
+Utrecht
+Drenthe
+Overijssel
+5
+^
+Welke kleuren heeft de vlag van België?
+Rood
+Zwart
+Geel
+3
+^
+Noem de drie grootste steden van Nederland
+Den Haag 
+Rotterdam
+Amsterdam
+3
+^
+Noem de vijf Waddeneilanden
+Terschelling
+Vlieland
+Texel
+Ameland
+Schiermonnikoog
+5
+^
+Welke landen grenzen er aan België?
+Frankrijk
+Duistland
+Nederland
+Luxemburg
+4
+^
+Wat is de hoofdstad van Spanje?
+Madrid
+1
+^
+&Medium
+Noem de vijf Waddeneilanden
+Terschelling
+Vlieland
+Texel
+Ameland
+Schiermonnikoog
+5
+^
+Wat is de officiële taal van Brazilië?
+Portugees
+1
+^
+Noem de drie grootste Religies
+Islam
+Christendom
+Hindoeïsme 
+3
+^
+Welke kleuren heeft de vlag van Ierland
+Oranje 
+Wit
+Groen
+3
+^
+Noem de 7 continenten
+Antarctica
+Zuid-Amerika
+Noord-Amerika
+Europa
+Azië
+Afrika
+Australië
+7
+^
+Welke drie landen hebben de meeste inwoners
+China
+Verenigde Staten
+India
+3
+^
+&Hard
+Noem de 3 grootste steden in Europa
+Istanbul
+Moskou
+Londen
+3
+^
+Noem 5 hoofdsteden uit Zuid-Amerika 
+Buenos Aires
+La Paz
+Brasilia
+Santiago
+Bogota
+Quito
+Georgetown
+Asuncion
+Lima
+Paramaribo
+Montevideo
+Caracas
+5
+^
+Noem vijf van de zeven zeeën op de wereld 
+Middellandse Zee
+Adriatische Zee
+Zwarte Zee
+Rode Zee
+Arabische Zee
+Perzische Golf
+Kaspische Zee
+5
+^
+Welk volk woont in Kosovo?
+Albanezen
+1
+^
+Welke kleuren heeft de vlag van Ethiopië
+Groen
+Geel
+Rood
+3
+^
+Noem de vijf grootste landen ter wereld qua oppervlakte  
+Rusland
+Canada
+Verenigde Staten
+China
+Brazilië
+5
+^
+&Extreme
+Welke kleuren heeft de vlag van Oekraïne
+Geel
+Blauw
+2
+^
+Noem drie landen met de langste kustlijnen van de wereld
+Indonesië
+Rusland
+Filipijnen
+Japan
+Australië
+3
+^
+Aan welke drie meren grenst Almere
+IJmeer
+Markermeer
+Gooimeer
+3
+^
+Noem de drie kleinste dorpen van Nederland
+’T Woudt
+Schokland
+Ruigoord
+3
+^
+Noem de drie warmste landen ter wereld
+Libië
+Saudi-Arabië
+Irak
+3
+^
+In welk land vind je de grootste piramide?
+Mexico
+1
+^
+#Informatica 
+&Easy
+Welke loops kent Python
+For loop
+While loop
+2
+^
+Noem vier bekende programmeertalen
+Python
+Java
+Javascript
+C#
+C
+C++
+R
+PHP
+Ruby
+Haskell
+Assembly
+Pascal
+Julia
+Lisp
+Fortran
+SQL
+Swift
+Scratch
+Kotlin
+Basic
+Matlab
+4
+^
+Wat is de meest gebruikte programmeertaal 
+Python
+1
+Welke drie hoeveelheden parameters kan je invullen in een range functie in Python
+1
+2
+3
+3
+^
+Wat is het meest gebruikte besturingssysteem
+Windows 10
+1
+^
+Welk getal volgt er in de reeks 1-2-4-7-11?
+16
+1
+^
+&Medium
+Welke statements kunnen een if-statement aanvullen in Python
+Else-statement
+Elif-statement
+2
+^
+Noem de vier collection data types in Python
+Set
+Dictionary
+Tuple
+List
+4
+^
+Waar staat HTML voor
+HyperText Markup Language
+1
+^
+Noem drie bekende besturingssystemen
+Microsoft Windows
+Windows
+Unix
+Linux
+GNU/Linux
+iOS
+Android
+Chrome OS
+MS-Dos
+Mac OS
+BSD
+3
+^
+Welk getal volgt er in de reeks 1-3-7-15-31-63?
+127
+1
+^
+Noem drie condities van Python die gebruikt worden in bijvoorbeeld if-statements
+==
+!=
+<
+<=
+>
+>=
+3
+^
+&Hard
+Noem drie bekende Errors in Python
+SyntaxError
+RuntimeError
+TypeError
+NameError
+ZeroDivisionError
+3
+^
+Noem de afkortingen van twee bekende bedrijfssoftware
+ERP
+SCM
+CRM
+PDM
+2
+^
+Noem drie dingen waar Python het meest voor gebruikt wordt
+Webontwikkeling
+Webdesign
+Software ontwikkeling
+Wiskunde
+Systeem scripting
+Data Science
+Machine Learning
+
+3
+^
+Noem drie bekende soorten malware
+Virussen
+Spyware
+Botnets
+Phishing
+Rootkits
+Trojans
+Worm
+Ransomware
+3
+^
+Welk getal volgt er in de reeks 1-1-2-3-5?
+8
+1
+^
+Welke operatoren kun je gebruiken in een Boolean?
+Or 
+And
+2
+^
+&Extreme
+Wie heeft Python ontworpen?
+Guido van Rossum
+1
+^
+Welke twee realtimesoftware zijn er?
+Soft real time
+Hard real time
+2
+^
+Uit welke vijf bestaat een kantoorsoftwarepakket meestal
+Tekstverwerker
+Spreadsheet
+Databaseprogramma
+Presentatiesoftware
+Projectplanning
+5
+^
+Welk getal volgt er in de reeks 2-6-12-20?
+30
+1
+^
+Noem vijf data types in Python
+Set
+Mapping
+Sequence
+Boolean
+Binary
+Integer
+Float
+String
+5
+^
