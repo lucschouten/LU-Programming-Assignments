@@ -3,7 +3,7 @@ Programming assignments at Leiden University (NL) in 'Computer Science &amp; Eco
 
 **Course**
 
-**Algorithms**
+**Algorithms**:
     - Quatrominos
       - Contributors:
         - Luc Schouten & Dylan Macquine
@@ -14,12 +14,12 @@ Programming assignments at Leiden University (NL) in 'Computer Science &amp; Eco
       - Contributors:
         - Luc Schouten & Dylan Macquine
         
-**Artificial Intelligence**
+**Artificial Intelligence**:
     - AI Tetris
       - Contributors:
         - Luc Schouten & Dylan Macquine
         
-**Software Development**
+**Software Development**:
     - Trivia game
       - Contributors:
         - Luc Schouten & Dylan Macquine
